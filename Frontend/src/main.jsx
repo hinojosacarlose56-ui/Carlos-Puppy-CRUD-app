@@ -9,8 +9,8 @@ createRoot(document.getElementById('root')).render(
     <AsgardeoProvider
       clientId="6AhKcr6Hf9_fVZZil2o3QGMP94Ea"
       baseUrl="https://api.asgardeo.io/t/ceh4269"
-      signInRedirectURL="https://carlos-puppy-crud-app-1.onrender.com/"
-      signOutRedirectURL="https://carlos-puppy-crud-app-1.onrender.com/"
+      signInRedirectURL="https://carlos-puppy-crud-app-1.onrender.com"
+      signOutRedirectURL="https://carlos-puppy-crud-app-1.onrender.com"
       scopes="openid profile"
     >
       <App />
