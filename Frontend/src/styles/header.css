@@ -1,0 +1,13 @@
+header {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+  padding: 28px 50px;
+  box-shadow: 0 4px 20px rgba(37, 99, 235, 0.12);
+}
+
+header h1 {
+  color: white;
+  font-size: 28px;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: -0.5px;
+}
